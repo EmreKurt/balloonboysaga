@@ -300,6 +300,7 @@ header .intro-text .intro-heading {
 @media {
     header .intro-text {
        height: 90%;
+       width: 100%;
         
     }
 
