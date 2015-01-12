@@ -3,6 +3,7 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: #e5aa5c;
+    margin-right: -10px;
 }
 
 .text-muted {
@@ -263,9 +264,7 @@ header{
     background-image: url(../img/header-bg.png) ;
     background-position: center center;
     background-size: auto 100%;
-    height:80vh;
-    margin-right: -5px;
-    
+    height:80vh;    
     
 
 
